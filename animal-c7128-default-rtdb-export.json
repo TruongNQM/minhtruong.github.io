@@ -1,0 +1,48 @@
+{
+    "animal":[
+        {
+            "id":"1",
+            "image":"./image/lion.jpg",
+            "name":"Lion",
+            "description":"Sư tử là một trong những đại miêu trong họ mèo và là một loài của họ báo. Lời vật này còn được gọi bằng cái tên như là “Vua của các loài thú”. Bởi lẽ vì nó có một bộ lông màu vàng óng, đôi mắt sắc rất đẹp. Sư tử có bờm to, nhìn rất dũng mãnh và uy nghiêm, xứng đáng với cái tên “Vua của muôn loài” mà mọi người đã đặt."
+        },
+        {
+            "id":"2",
+            "image":"./image/gorilla.jfif",
+            "name":"Gorilla",
+            "description":"Tinh tinh (Pan troglodytes), còn gọi là hắc tinh tinh, tinh tinh thông thường, là một loài trong chi Tinh tinh (Pan), Họ Người, bộ Linh trưởng, được Blumenbach mô tả vào năm 1775. Tinh tinh thường sinh sống ở Tây và Trung Phi. Họ hàng gần nhất với nó là bonobo (Pan paniscus), được tìm thấy tại các cánh rừng của Cộng hòa dân chủ Congo. Ranh giới địa lý giữa hai loài này là sông Congo."
+        },
+        {
+            "id":"3",
+            "image":"./image/tinhtinh.jfif",
+            "name":"Elephant",
+            "description":"Voi là động vật có vú thuộc họ Elephantidae (cận ngành) và là động vật trên cạn lớn nhất hiện nay. Ba loài hiện được công nhận: voi đồng cỏ châu Phi, voi rừng châu Phi và voi châu Á."
+        },
+        {
+            "id":"4",
+            "image":"./image/dolphin.jfif",
+            "name":"Dolphin",
+            "description":"Cá heo là loài cá thông minh và hiền lành sống trong đại dương. Khi nhắc đến cá heo các bạn sẽ nghĩ ngay đến những màn biểu diễn xiếc điêu luyện."
+        },
+        {
+            "id":"5",
+            "image":"./image/dolphin.jfif",
+            "name":"Dolphin",
+            "description":"Cá heo là loài cá thông minh và hiền lành sống trong đại dương. Khi nhắc đến cá heo các bạn sẽ nghĩ ngay đến những màn biểu diễn xiếc điêu luyện."
+        },
+        {
+            "id":"6",
+            "image":"./image/dolphin.jfif",
+            "name":"Dolphin",
+            "description":"Cá heo là loài cá thông minh và hiền lành sống trong đại dương. Khi nhắc đến cá heo các bạn sẽ nghĩ ngay đến những màn biểu diễn xiếc điêu luyện."
+        },
+        {
+            "id":"7",
+            "image":"./image/dolphin.jfif",
+            "name":"Dolphin",
+            "description":"Cá heo là loài cá thông minh và hiền lành sống trong đại dương. Khi nhắc đến cá heo các bạn sẽ nghĩ ngay đến những màn biểu diễn xiếc điêu luyện."
+        }
+    ]
+
+    
+}
